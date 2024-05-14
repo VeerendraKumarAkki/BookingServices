@@ -1,6 +1,7 @@
 **Project description**
   BookingServices is a web api project built using .net 8 to store the bookings. It has an POST api which takes booking time and name as a body 
   BookingApi is a test project that holds all the test cases for bookingservice api
+  Github link: https://github.com/VeerendraKumarAkki/BookingServices 
 
 **Project execution Steps**
 Option 1 
