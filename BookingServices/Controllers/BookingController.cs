@@ -13,7 +13,7 @@ namespace BookingServices.Controllers
         private const int MaxSimultaneousBookings = 4;
         private static readonly TimeSpan BusinessStartTime = new TimeSpan(9, 0, 0);
         private static readonly TimeSpan BusinessEndTime = new TimeSpan(17, 0, 0);
-        private static readonly int bookingDurationInMinutes = 60;
+       
 
 
         [HttpPost]
