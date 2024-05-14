@@ -4,17 +4,17 @@
 
 **Project execution Steps**
 Option 1 
-  -> Open the solution in Visual studio
+  -> Open the solution in visual studio
   -> Run the project 
-  -> A swagger file will running in your brower under the URL: https://localhost:7257/swagger/index.html
-  -> You can test the POST api using the Swagger try as shown in the below Image 
+  -> A swagger file will be running in your browser under the URL: https://localhost:7257/swagger/index.html
+  -> You can test the POST api using the Swagger as shown in the below Image 
       ![image](https://github.com/VeerendraKumarAkki/BookingServices/assets/35618097/9e08ada8-f71a-4c25-903f-d05a08abe2e4)
 
 Options 2 
-  -> Open the solution in visual studion 
+  -> Open the solution in visual studio 
   -> Run the project 
   -> Open postman 
-  -> Invoke the Post API using this URL: https://localhost:7257/booking, post request with the boday as follows 
+  -> Invoke the Post API using the URL: https://localhost:7257/booking, post request with the body as follows 
    ![image](https://github.com/VeerendraKumarAkki/BookingServices/assets/35618097/287d0b51-3a8c-43a3-945f-75fec690a02d)
 
 
